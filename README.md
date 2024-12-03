@@ -4,10 +4,10 @@ This repository contains the projects completed during the Data Science Internsh
 Table of Contents
 Task 1: Iris Flower Classification
 
-Task 2: Car Price Prediction
+Task 2: Unemployment Analysis
 
-Task 3: Sales Prediction
+Task 3: Car Price Prediction
 
-Task 4: Unemployment Analysis
+Task 4: Email Spam Classification
 
-Task 5: Email Spam Classification
+Task 5: Sales Prediction
